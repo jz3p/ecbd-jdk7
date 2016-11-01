@@ -1,5 +1,5 @@
 # AlpineLinux with a glibc-2.23 and Oracle Java 7
-FROM docker.neg/alpine:3.3
+FROM alpine:3.3
 
 MAINTAINER jim zhang <jim.d.zhang@newegg.com>
 
