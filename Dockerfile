@@ -1,7 +1,7 @@
 # AlpineLinux with a glibc-2.23 and Oracle Java 7
 FROM docker.neg/alpine:3.3
 
-MAINTAINER Sam Zhao <sam.x.zhao@newegg.com>
+MAINTAINER jim zhang <jim.d.zhang@newegg.com>
 
 # Java Version and other ENV
 ENV JAVA_VERSION_MAJOR=7 \
