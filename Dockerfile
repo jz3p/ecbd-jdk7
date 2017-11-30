@@ -1,7 +1,7 @@
 # AlpineLinux with a glibc-2.23 and Oracle Java 7
 FROM alpine:3.3
 
-MAINTAINER jim zhang <jim.d.zhang@newegg.com>
+MAINTAINER jim zhang
 
 # Java Version and other ENV
 ENV JAVA_VERSION_MAJOR=7 \
